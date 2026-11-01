@@ -1,0 +1,15 @@
+# Core scraping and HTTP requests (Optional, built-in urllib works out-of-the-box)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Phase 2: Tabular display
+tabulate>=0.9.0
+
+# Phase 3: GUI Frontends
+streamlit>=1.35.0
+# Note: Tkinter is part of Python's standard library (no pip install needed)
+
+# Phase 4: Exports and Visualization
+pandas>=2.2.0
+openpyxl>=3.1.0
+matplotlib>=3.8.0

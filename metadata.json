@@ -1,0 +1,6 @@
+{
+  "name": "Screener.in Financial Data Scraper & Side-by-Side Comparison",
+  "description": "Scrapes quarterly financial data (Net Profit, Sales, OPM%, EPS) from Screener.in with side-by-side multi-company comparison, trend charts, CSV export, and Python reference implementations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
